@@ -42,3 +42,6 @@ git reset - быстро отменяет внесенные изменения
 git reset--hard - удаляет безвозвратно все незафиксированные изменения
 git push - отправляет на сервер все зафиксированные изменения
 git branche - список веток
+git branch new_branch_name - создание новой ветки
+git branch-d name branch - удалить ветку
+git checkout name branch - переход нанужную ветку
