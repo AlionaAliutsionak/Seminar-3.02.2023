@@ -17,9 +17,6 @@
 * добавить изображение
 [vivaldi logo](https://vivaldi.com/wp-content/themes/vivaldycom-theme/img/press/icons/viv_icon.png)
 
-Может убрать цитаты
-зачем они нам нужны?))
-
 >Цитаты - добавляет цитату
 
 >Это
