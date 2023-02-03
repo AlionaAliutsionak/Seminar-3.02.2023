@@ -11,6 +11,12 @@
 [Link](https://vivaldi.com)
 * добавить изображение
 [vivaldi logo](https://vivaldi.com/wp-content/themes/vivaldycom-theme/img/press/icons/viv_icon.png)
+>Цитаты - добавляет цитату
+
+>Это
+>Многосрочная
+>Цитата
+
 * Упорядоченный список
 1. Пункт 1
 2. Пункт 2
